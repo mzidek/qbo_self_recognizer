@@ -32,8 +32,8 @@
 
 #include <cv.h>
 #include <highgui.h>
-#include <cvaux.h>
-#include <cxmisc.h>
+//#include <cvaux.h>
+//#include <cxmisc.h>
 
 #include <ros/ros.h>
 #include <ros/package.h>

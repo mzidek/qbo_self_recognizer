@@ -1,0 +1,28 @@
+<package>
+  <name>qbo_self_recognizer</name>
+  <version>1.0.2</version>
+  <description>
+
+     qbo_self_recognizer
+
+  </description>
+  <maintainer email="john@doe.com">Arturo Bajuelos</maintainer>
+  <author>Arturo Bajuelos</author>
+  <license>GPLv2, LGPLv2.1</license>
+  <url>http://ros.org/wiki/qbo_self_recognizer</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>image_transport</build_depend>
+  <build_depend>qbo_arduqbo</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>cv_bridge</run_depend>
+  <run_depend>image_transport</run_depend>
+  <run_depend>qbo_arduqbo</run_depend>
+</package>
+
+
